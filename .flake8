@@ -1,0 +1,12 @@
+[flake8]
+extend-ignore = 
+    # line break before binary operator
+    W503,
+    # Double quotes found but single quotes preferred
+    Q000
+
+exclude = README.md
+format = colored
+max_line_length = 79
+show_source = true
+
