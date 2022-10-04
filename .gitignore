@@ -1,2 +1,5 @@
 idea/*
 .env
+src/__pycache__/
+src/neo4j_benchmarking/__pycache__/
+src/neo4j_benchmarking/utils/__pycache__/
